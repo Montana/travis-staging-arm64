@@ -15,3 +15,4 @@ matrix:
       script: python3 bfs.py
       env:
         - LIB_PATH="/usr/bin/shared/x86_64/v1"
+        
